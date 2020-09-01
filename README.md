@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab you will be writing queries to gain insight into our movies database. The `movies_db` consists of four tables. You are already familiar with the `movies` and the `directors` tables. The two new tables are the `users` and the `users_movies` tables.
+In this lab you will be writing queries to gain insight into a movies database.
 
 - The `users` table simply holds user records. These records only store a `name` string of a user. 
 - The `users_movies` table represents a many to many relationship between the users table and the movies table. These types of tables are sometimes referred to as "join tables". 
